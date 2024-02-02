@@ -1,4 +1,4 @@
-# JavaScript GPT Image Details
+# JavaScript GPT 
 
 Welcome to the JavaScript GPT Image Details application, a tool that uses the Gemini Pro API to provide detailed information about images. This application is designed to be used with plain JavaScript, Angular, and React.
 
